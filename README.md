@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Cosmin <img src="https://cdn3.emoji.gg/emojis/8324-plink.gif" width="40" />
 <h3 align="center">A passionate web and mobile Software Engineer based in the UK</h3>
 
-- 🤓 Experienced with **React, React Native, Vue, Node and AWS**
+- 🤓 Working with **React, React Native, Vue, Node and AWS**
 
-- 👯 I’m available to collaborate on **Front-End, Back-End and Full-Stack projects**
+- 👯 Able to collaborate on **Front-End, Back-End and Full-Stack** projects
 
-- 🛫 I like to travel so I'm able to work from **multiple countries**, but mainly **UK**, **Europe** and **Dubai**
+- 🛫 Available for work in the **UK** and **Europe**
 
 <h3 align="center">Languages and Tools:</h3>
 
