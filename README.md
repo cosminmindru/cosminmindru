@@ -5,7 +5,7 @@
 
 - 👯 Able to collaborate on **Front-End, Back-End and Full-Stack** projects
 
-- 🛫 Available for work in the **UK** and **Europe**
+- 🛫 Available for work in the **UK** and **EU**
 
 <h3 align="center">Languages and Tools:</h3>
 
